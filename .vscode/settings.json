@@ -3,5 +3,6 @@
         
         
         80
-    ]
+    ],
+    "python.formatting.provider": "yapf"
 }

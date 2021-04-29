@@ -1,5 +1,3 @@
-# Adapted from Ian Mcloughlin lesson
-
 class State:
     """A state and its arrows in Thompson's construction."""
     def __init__(self, label, arrows, accept):
@@ -133,6 +131,8 @@ def re_to_nfa(postfix):
         return None
     else:
         return stack[0]
+
+
 
 if __name__ == "__main__":
     for postfix in ["abb.*.a.", "100.*.1.", 'ab|']:

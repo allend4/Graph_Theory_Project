@@ -1,10 +1,14 @@
 # Project: Graph Theory 2021
 
-A description of your repository and its contents pitched at a knowledgeable outsider.
-Instructions stating how to run and test your program.
-An explanation of your algorithm.
+### Description
+This program is a programming exercise for the module 'Graph Theory' in 3rd year Software and Developement. The aim of the project is to be able to search a text file using a regular expression. Created using the Python 3 programming language.
 
-Answers to each of the following three questions, up to 500 words each:
-What is a regular expression?
-How do regular expressions differ across implementations?
-Can all formal languages be encoded as regular expressions?
+### Instructions
+
+### Explanation.
+
+### What is a regular expression?
+
+### How do regular expressions differ across implementations?
+
+### Can all formal languages be encoded as regular expressions?

@@ -1,5 +1,6 @@
 import shuntingre
 import thompson
+import argparse
 
 def menu(): # menu input
     print("===============GraphTheory===============")
@@ -78,5 +79,3 @@ while loop:  # While loop which will keep going until loop = False
         # Any input other than values 1-3 will print an error message
         print("Wrong option selected. Enter any key to try again..")
         
-
-

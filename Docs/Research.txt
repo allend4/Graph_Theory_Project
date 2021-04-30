@@ -1,0 +1,53 @@
+Introduction.
+When I started this project I was very confused. There was so many different 
+aspects and I couldnt grasp them. As the module progressed, I slowly started to
+understand the various ideas of the different algorithms based on informatrion
+online and all the recorded lectures/labs given by Ian Mcloughlin.
+
+Project.
+The aim of the project is to create  a program in Python, that can search a text
+file using a regular expression.
+
+Python.
+Python is a programming language. It is an interpreted, object-oriented, 
+high-level programming language with dynamic semantics.
+Python was easier to pick up than I had thought. The syntax is easy, the code is
+very easy to read and it enables you to write a program in fewer lines of code,
+compared to other programming languages. With no experience with Python before,
+it took a little while to get used to but going through some online tutorials,
+allowed me to pick it up quick enough. Python now ranking second in the most 
+popular languages will only benefit me in the future
+
+Automata.
+Finite automation (FA) are used to recognise patterns. This was the most 
+interesting part of the the project. I thoroughly enjoyed these lectures and did
+consider them a sort of game. Consisting of an Accept state and a Reject state.
+As the input string is prcoessed, its the job of the FA to accept or reject an 
+input based on the pattern.
+
+Nodes represent a step in the process.
+Arcs represent movement from oine step to another.
+
+Shunting Yard.
+In computer science, the shunting-yard algorithm is a method for 
+parsing mathematical expressions specified in infix notation. It can produce 
+either a postfix notation string, also known as Reverse Polish notation (RPN), 
+or an abstract syntax tree (AST). Created by Edsger Dijkstra.
+
+Thompson's Construction.
+Thompson's constrcution algorithm is a way of converting a regular expression 
+into an (NFA) nondeterministic finite automaton. Created by Ken Thompson. It is 
+also known as McNaughton–Yamada–Thompson algorithm.
+
+
+
+
+
+notes
+
+python
+https://realpython.com/ - learn by example.
+
+informatrion
+https://www.wikipedia.org/ - wikipedia
+

@@ -43,11 +43,21 @@ also known as McNaughton–Yamada–Thompson algorithm.
 
 
 
-notes
+Reference Points
 
 python
 https://realpython.com/ - learn by example.
 
-informatrion
-https://www.wikipedia.org/ - wikipedia
+information
+https://www.wikipedia.org/ - Wikipedia
+https://www.geeksforgeeks.org/ - Geeks for geeks
+https://stackoverflow.com/ - Stack overflow
+Regular Expression to NFA - YouTube -  Regular expressions to NFA
+Comp Sci in 5: Shunting Yard Algorithm - YouTube – Shunting Yard Algorithm
+
+Regular expressions
+https://regex101.com/ - regex101: build, test, and debug regex
+https://RegExr.com/ - RegExr: Learn, Build, & Test RegEx
+They are great to use. Online tools to learn, build and test regular expressions. Both are similar but are a good way to wrap your head around regular expressions. Allows you to explore all avenues and gain a greater understanding.
+
 

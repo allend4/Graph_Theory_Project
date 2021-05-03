@@ -52,5 +52,5 @@ The short answer is Yes. A formal language is basically a string. Regular expres
 
 
 ### References
-Main poin of reference - -Ian McLoughlin-
-For other reference see Researcg.txt under Doc's
+- Main poin of reference - -Ian McLoughlin
+- For other reference see Research.txt under Doc's

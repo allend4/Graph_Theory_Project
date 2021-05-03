@@ -30,6 +30,14 @@ Together the shunting yard algorithm takes a regular expression and puts  it int
 A regular expression, sometimes known as  *RegEx*  is a sequence of characters that form a search pattern. Regular expressions are used all throughout the world and are built into to all programming languages such as Python, that has been used for this project.
 RegEx is not a programming language but is a term for the theory used to describe regular languages. Regular expressions can be simple and complicated, depending on its use, such as searching, manipulating and editing. From searching words in a text document, to being used in google analytics to match patterns.Even email validation and passwords are a few areas of strings where Regex are widely used to define the constraints.
 
+**Regex**
+- ' ^ ' - The beginning of a line.
+- ' . ' - Any character.
+- ' | ' - The OR operator.
+- ' ? ' - Matches the character before the '?' (zero OR one).
+- ' + ' - Matches character before '+' (one OR more).
+- ' * ' - Matches everyhting in place of the Kleene Star.
+
 ### How do regular expressions differ across implementations?
 there are two implementations of regular expression. DFA - Deterministic Finite Automaton and NFA - Nondeterministic Finite Automaton.
 
@@ -41,3 +49,8 @@ there are two implementations of regular expression. DFA - Deterministic Finite 
 
 ### Can all formal languages be encoded as regular expressions?
 The short answer is Yes. A formal language is basically a string. Regular expressions are encoded to search strings. Therefore, regular expressions can be used in all formal languages. Regular expression can be as basic and as complicated as you want to make them. their use may be simple or overly complicated, but the main thing to notice is that they can be used. 
+
+
+### References
+Main poin of reference - -Ian McLoughlin-
+For other reference see Researcg.txt under Doc's

@@ -33,13 +33,13 @@ In computer science, the shunting-yard algorithm is a method for
 parsing mathematical expressions specified in infix notation. It can produce 
 either a postfix notation string, also known as Reverse Polish notation (RPN), 
 or an abstract syntax tree (AST). Created by Edsger Dijkstra.
+infix - A Notation where operators appear between operands, for example a+b.
+postfix - It is a mathematical notation in which operators follow their operands.
 
 Thompson's Construction.
 Thompson's constrcution algorithm is a way of converting a regular expression 
 into an (NFA) nondeterministic finite automaton. Created by Ken Thompson. It is 
 also known as McNaughton–Yamada–Thompson algorithm.
-
-
 
 
 
@@ -52,8 +52,8 @@ information
 https://www.wikipedia.org/ - Wikipedia
 https://www.geeksforgeeks.org/ - Geeks for geeks
 https://stackoverflow.com/ - Stack overflow
-Regular Expression to NFA - YouTube -  Regular expressions to NFA
-Comp Sci in 5: Shunting Yard Algorithm - YouTube – Shunting Yard Algorithm
+https://www.youtube.com/watch?v=RYNN-tb9WxI - YouTube -  Regular expressions to NFA
+https://www.youtube.com/watch?v=Wz85Hiwi5MY - YouTube – Shunting Yard Algorithm
 
 Regular expressions
 https://regex101.com/ - regex101: build, test, and debug regex
